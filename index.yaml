@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-nginx:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2021-09-18T00:25:01.486179441+04:00"
+    description: My custom nginx chart
+    digest: 21350743011fe7716bd1eeea3f8e7ffe12ce417d9de54a19bfd095b26074288d
+    name: my-nginx
+    urls:
+    - my-nginx-0.3.0.tgz
+    version: 0.3.0
+generated: "2021-09-18T00:25:01.482592998+04:00"
